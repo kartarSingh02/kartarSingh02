@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="https://github.com/kartarSingh02/kartarSingh02/blob/main/kslogo.PNG" alt="Your Logo">
+</div>
 <h1 align="center">Hi 👋, I'm Kartar SIngh</h1>
 <h3 align="center">Code Magician in the Making: Exploring the World of Software ✨🔮</h3>
 
