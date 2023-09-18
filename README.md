@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [iNotebook](https://github.com/kartarSingh02/iNotebook-frontEnd)
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Reactjs,Redux,State Management**
 
-- 💬 Ask me about **react,angular,python,c++**
+- 💬 Ask me about **react,angular,python,c++,flutter**
 
 - 📫 How to reach me **k4kartar4520@gmail.com**
 
