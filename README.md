@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [iNotebook](https://github.com/kartarSingh02/iNotebook-frontEnd)
 
-- 🌱 I’m currently learning **Reactjs,Redux,State Management**
+- 🌱 I’m currently learning **Nuxt 3, Vue.js**
 
 - 💬 Ask me about **react,angular,python,c++,flutter**
 
