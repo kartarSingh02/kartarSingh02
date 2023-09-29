@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on [iNotebook](https://github.com/kartarSingh02/iNotebook-frontEnd)
+- 🔭 I’m currently working on [Fundamentals of Vue.js](https://github.com/kartarSingh02/fundamentals-Vuejs)
 
 - 🌱 I’m currently learning **Nuxt 3, Vue.js**
 
