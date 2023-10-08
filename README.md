@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on [Fundamentals of Vue.js](https://github.com/kartarSingh02/fundamentals-Vuejs)
+- 🔭 I’m currently working on [Restaurant Management App using Vue.js](https://github.com/kartarSingh02/restaurantApp-Vuejs)
 
 - 🌱 I’m currently learning **Nuxt 3, Vue.js**
 
