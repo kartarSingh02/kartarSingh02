@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on [Restaurant Management App using Vue.js](https://github.com/kartarSingh02/restaurantApp-Vuejs)
+- 🔭 I’m currently working on [FlipkartClone](https://github.com/kartarSingh02/flipkartClone-MERNStack)
 
-- 🌱 I’m currently learning **Nuxt 3, Vue.js**
+- 🌱 I’m currently learning **Nuxt 3, Vue.js, Reactjs**
 
 - 💬 Ask me about **react,angular,python,c++,flutter**
 
