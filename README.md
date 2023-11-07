@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [FlipkartClone](https://github.com/kartarSingh02/flipkartClone-MERNStack)
 
-- 🌱 I’m currently learning **Nuxt 3, Vue.js, Reactjs**
+- 🌱 I’m currently learning **Reactjs and DSA**
 
 - 💬 Ask me about **react,angular,python,c++,flutter**
 
