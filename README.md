@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on [FlipkartClone](https://github.com/kartarSingh02/flipkartClone-MERNStack)
+- 🔭 I have successfully completed the development of a Flipkart clone using the MERN (MongoDB, Express, React, Node.js) stack.[FlipkartClone](https://github.com/kartarSingh02/flipkartClone-MERNStack)
 
-- 🌱 I’m currently learning **Reactjs and DSA**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **react,angular,python,c++,flutter**
 
