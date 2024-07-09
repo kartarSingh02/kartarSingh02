@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **react,angular,python,c++,flutter**
+- 💬 Ask me about **react,angular,javascript,python,c++**
 
 - 📫 How to reach me **k4kartar4520@gmail.com**
 
