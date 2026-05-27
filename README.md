@@ -6,12 +6,6 @@
 
 <img align="right" alt="coding" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif">
 
-
-
-- 🔭 I have successfully completed the development of a Flipkart clone using the MERN (MongoDB, Express, React, Node.js) stack.[FlipkartClone](https://github.com/kartarSingh02/flipkartClone-MERNStack)
-
-- 🌱 I’m currently learning **DSA**
-
 - 💬 Ask me about **react,angular,javascript,python,c++**
 
 - 📫 How to reach me **k4kartar4520@gmail.com**
